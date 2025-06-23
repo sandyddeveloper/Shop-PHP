@@ -1,0 +1,141 @@
+[07-Mar-2024 13:37:19 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/capfojaq/poland.fo/server/db.php:7
+Stack trace:
+#0 /home/capfojaq/poland.fo/home.php(5): require_once()
+#1 {main}
+  thrown in /home/capfojaq/poland.fo/server/db.php on line 7
+[07-Mar-2024 15:29:51 UTC] PHP Warning:  Undefined array key "HTTP_X_CC_WEBHOOK_SIGNATURE" in /home/capfojaq/public_html/poland.fo/webhook.php on line 16
+[07-Mar-2024 15:29:51 UTC] PHP Fatal error:  Uncaught TypeError: hash_equals(): Argument #2 ($user_string) must be of type string, null given in /home/capfojaq/public_html/poland.fo/webhook.php:21
+Stack trace:
+#0 /home/capfojaq/public_html/poland.fo/webhook.php(21): hash_equals()
+#1 {main}
+  thrown in /home/capfojaq/public_html/poland.fo/webhook.php on line 21
+[07-Mar-2024 15:29:54 UTC] PHP Warning:  Undefined array key "HTTP_X_CC_WEBHOOK_SIGNATURE" in /home/capfojaq/public_html/poland.fo/webhook.php on line 16
+[07-Mar-2024 15:29:54 UTC] PHP Fatal error:  Uncaught TypeError: hash_equals(): Argument #2 ($user_string) must be of type string, null given in /home/capfojaq/public_html/poland.fo/webhook.php:21
+Stack trace:
+#0 /home/capfojaq/public_html/poland.fo/webhook.php(21): hash_equals()
+#1 {main}
+  thrown in /home/capfojaq/public_html/poland.fo/webhook.php on line 21
+[07-Mar-2024 15:52:06 UTC] PHP Warning:  Undefined array key "sellix_api" in /home/capfojaq/public_html/poland.fo/buy.php on line 120
+[07-Mar-2024 15:52:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_stmt_get_result() in /home/capfojaq/public_html/poland.fo/comp/functions.php:482
+Stack trace:
+#0 /home/capfojaq/public_html/poland.fo/buy.php(152): deliverOrder()
+#1 {main}
+  thrown in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 482
+[07-Mar-2024 15:52:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_stmt_get_result() in /home/capfojaq/public_html/poland.fo/comp/functions.php:482
+Stack trace:
+#0 /home/capfojaq/public_html/poland.fo/buy.php(151): deliverOrder()
+#1 {main}
+  thrown in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 482
+[07-Mar-2024 15:55:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_stmt_get_result() in /home/capfojaq/public_html/poland.fo/comp/functions.php:482
+Stack trace:
+#0 /home/capfojaq/public_html/poland.fo/buy.php(151): deliverOrder()
+#1 {main}
+  thrown in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 482
+[07-Mar-2024 15:59:13 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 15:59:13 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 16:18:13 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 16:18:13 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 16:22:33 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:26:17 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 17:26:17 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 17:26:18 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 17:26:18 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 17:26:30 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:26:45 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:27:43 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 17:27:43 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 17:28:18 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:29:14 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:29:32 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:29:46 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:30:31 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 17:30:31 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 17:30:42 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 17:30:42 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 17:30:43 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 17:30:43 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 17:30:43 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 17:30:43 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 17:31:41 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 17:31:41 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 17:31:46 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 17:31:46 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 17:32:25 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 17:32:25 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 17:33:49 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:34:07 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:35:06 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:35:27 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:35:57 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:37:50 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:39:46 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:40:02 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:42:54 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:49:18 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:50:01 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 17:50:29 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 17:50:29 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 17:50:30 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 17:50:30 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 17:50:37 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 17:50:37 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 17:53:57 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 17:53:57 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 18:05:50 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 18:13:19 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 18:15:40 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 18:15:40 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 18:23:22 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 18:28:13 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 18:28:13 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 18:39:48 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 18:45:21 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 18:45:21 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 18:57:35 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 18:57:35 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 19:27:21 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 19:31:45 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 19:31:45 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 20:01:52 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 20:02:11 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[07-Mar-2024 20:07:52 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[07-Mar-2024 20:07:52 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[07-Mar-2024 21:45:23 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 10:44:34 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 10:45:34 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 10:45:55 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 10:45:59 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 10:49:22 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[08-Mar-2024 10:49:22 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[08-Mar-2024 10:49:23 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[08-Mar-2024 10:49:23 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[08-Mar-2024 10:49:23 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[08-Mar-2024 10:49:23 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[08-Mar-2024 10:54:56 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[08-Mar-2024 10:54:56 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[08-Mar-2024 10:55:13 UTC] PHP Warning:  Undefined array key "data" in /home/capfojaq/public_html/poland.fo/buy.php on line 423
+[08-Mar-2024 10:55:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/capfojaq/public_html/poland.fo/buy.php on line 423
+[08-Mar-2024 10:55:13 UTC] PHP Warning:  Undefined array key "data" in /home/capfojaq/public_html/poland.fo/buy.php on line 424
+[08-Mar-2024 10:55:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/capfojaq/public_html/poland.fo/buy.php on line 424
+[08-Mar-2024 10:55:13 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 10:55:16 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 10:55:26 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 10:55:30 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 10:55:50 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[08-Mar-2024 10:55:50 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[08-Mar-2024 11:10:11 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 11:16:15 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 11:16:57 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[08-Mar-2024 11:16:57 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739
+[08-Mar-2024 11:19:40 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 11:19:43 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 11:19:43 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 11:19:43 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 11:19:44 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 11:19:49 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 11:19:52 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 11:19:54 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 11:22:11 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 11:26:45 UTC] PHP Warning:  Undefined variable $role in /home/capfojaq/public_html/poland.fo/order.php on line 507
+[08-Mar-2024 11:28:12 UTC] PHP Warning:  Array to string conversion in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 735
+[08-Mar-2024 11:28:12 UTC] PHP Warning:  Undefined variable $goodsString in /home/capfojaq/public_html/poland.fo/comp/functions.php on line 739

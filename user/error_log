@@ -1,0 +1,52 @@
+[22-Feb-2024 02:55:25 UTC] PHP Warning:  Undefined array key "sellix_api" in /home/veviglow1/polishstock.cc/user/deposits.php on line 30
+[06-Mar-2024 19:26:18 UTC] PHP Warning:  Undefined array key "data" in /home/veviglow1/polishstock.cc/user/deposits.php on line 92
+[06-Mar-2024 19:26:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/veviglow1/polishstock.cc/user/deposits.php on line 92
+[06-Mar-2024 19:26:18 UTC] PHP Warning:  Undefined array key "data" in /home/veviglow1/polishstock.cc/user/deposits.php on line 93
+[06-Mar-2024 19:26:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/veviglow1/polishstock.cc/user/deposits.php on line 93
+[07-Mar-2024 15:50:49 UTC] PHP Parse error:  Unmatched '}' in /home/capfojaq/public_html/poland.fo/user/support.php on line 129
+[07-Mar-2024 15:59:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'msg' in 'field list' in /home/capfojaq/public_html/poland.fo/user/support.php:89
+Stack trace:
+#0 /home/capfojaq/public_html/poland.fo/user/support.php(89): mysqli->prepare()
+#1 {main}
+  thrown in /home/capfojaq/public_html/poland.fo/user/support.php on line 89
+[07-Mar-2024 16:04:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'msg' in 'field list' in /home/capfojaq/public_html/poland.fo/user/support.php:89
+Stack trace:
+#0 /home/capfojaq/public_html/poland.fo/user/support.php(89): mysqli->prepare()
+#1 {main}
+  thrown in /home/capfojaq/public_html/poland.fo/user/support.php on line 89
+[07-Mar-2024 16:17:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function displaySessionMessage() in /home/capfojaq/public_html/poland.fo/user/myorders.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/capfojaq/public_html/poland.fo/user/myorders.php on line 57
+[07-Mar-2024 16:17:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function displaySessionMessage() in /home/capfojaq/public_html/poland.fo/user/myorders.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/capfojaq/public_html/poland.fo/user/myorders.php on line 57
+[07-Mar-2024 16:17:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function displaySessionMessage() in /home/capfojaq/public_html/poland.fo/user/myorders.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/capfojaq/public_html/poland.fo/user/myorders.php on line 57
+[07-Mar-2024 16:18:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function displaySessionMessage() in /home/capfojaq/public_html/poland.fo/user/myorders.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/capfojaq/public_html/poland.fo/user/myorders.php on line 57
+[07-Mar-2024 16:18:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function displaySessionMessage() in /home/capfojaq/public_html/poland.fo/user/myorders.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/capfojaq/public_html/poland.fo/user/myorders.php on line 57
+[07-Mar-2024 16:18:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function displaySessionMessage() in /home/capfojaq/public_html/poland.fo/user/myorders.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/capfojaq/public_html/poland.fo/user/myorders.php on line 57
+[07-Mar-2024 16:19:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function displaySessionMessage() in /home/capfojaq/public_html/poland.fo/user/myorders.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/capfojaq/public_html/poland.fo/user/myorders.php on line 57
+[07-Mar-2024 16:19:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function displaySessionMessage() in /home/capfojaq/public_html/poland.fo/user/myorders.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/capfojaq/public_html/poland.fo/user/myorders.php on line 57
+[07-Mar-2024 16:19:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function displaySessionMessage() in /home/capfojaq/public_html/poland.fo/user/myorders.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/capfojaq/public_html/poland.fo/user/myorders.php on line 57
